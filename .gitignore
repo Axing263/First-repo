@@ -1,0 +1,16 @@
+# 编译输出
+Objects/
+Listings/
+*.elf
+*.hex
+*.bin
+*.map
+
+# 调试文件
+JLinkLog.txt
+JLinkSettings.ini
+DebugConfig/
+
+# IDE 临时文件
+*.uvguix.*
+EventRecorderStub.scvd
